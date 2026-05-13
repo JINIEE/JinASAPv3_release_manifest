@@ -1,0 +1,29 @@
+{
+    "schema_version":  1,
+    "app":  "ASAP",
+    "version":  "v1.8.1",
+    "published_at":  "2026-05-13T13:55:39Z",
+    "release_page_url":  "https://github.com/JINIEE/JinASAPv3_release/releases/",
+    "latest_release_url":  "https://github.com/JINIEE/JinASAPv3_release/releases/latest",
+    "minimum_supported_version":  null,
+    "title":  "ASAP v1.8.1",
+    "summary":  "# Release Notes — v1.8.1",
+    "notes":  "# Release Notes — v1.8.1\r\n\r\n- Source repo: `JINIEE/JinASAP`\r\n- Source SHA: `28f825479461471ed66667d0e2da5e8bba11286e`\r\n- Range: `f66b4e36671396918b9cbbc835a24260e05157d1..28f825479461471ed66667d0e2da5e8bba11286e`\r\n- Commits: **3**\r\n\r\n###  Documentation\r\n\r\n- docs: make PRD/TRD reflect current ASAP scope (`c8aa5c9`)\r\n\r\n### Other Changes\r\n\r\n- Replace updater gateway with manifest notice (`8ecabf5`)\r\n- Record manifest release verification (`28f8254`)\r\n\r\n---\r\n\r\n### Complete Commit Log\r\n\r\n- `c8aa5c9` [docs] docs: make PRD/TRD reflect current ASAP scope\r\n- `8ecabf5` [uncategorized] Replace updater gateway with manifest notice\r\n- `28f8254` [uncategorized] Record manifest release verification",
+    "assets":  [
+                   {
+                       "name":  "asap.exe",
+                       "kind":  "portable",
+                       "size":  10074624
+                   },
+                   {
+                       "name":  "ASAP_1.8.1_x64_en-US.msi",
+                       "kind":  "msi",
+                       "size":  3551232
+                   },
+                   {
+                       "name":  "ASAP_1.8.1_x64-setup.exe",
+                       "kind":  "nsis",
+                       "size":  2479303
+                   }
+               ]
+}
