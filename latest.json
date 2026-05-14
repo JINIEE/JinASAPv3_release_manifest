@@ -1,29 +1,29 @@
 {
     "schema_version":  1,
     "app":  "ASAP",
-    "version":  "v1.8.2",
-    "published_at":  "2026-05-14T07:54:01Z",
+    "version":  "v1.8.3",
+    "published_at":  "2026-05-14T08:20:11Z",
     "release_page_url":  "https://github.com/JINIEE/JinASAPv3_release/releases/",
     "latest_release_url":  "https://github.com/JINIEE/JinASAPv3_release/releases/latest",
     "minimum_supported_version":  null,
-    "title":  "ASAP v1.8.2",
-    "summary":  "# Release Notes — v1.8.2",
-    "notes":  "# Release Notes — v1.8.2\r\n\r\n- Source repo: `JINIEE/JinASAP`\r\n- Source SHA: `12e07dc191000eeb00de251a669f5169cd0d1622`\r\n- Range: `47d84d78395b66953764d4eab6949520192d0047..12e07dc191000eeb00de251a669f5169cd0d1622`\r\n- Commits: **3**\r\n\r\n###  Bug Fixes\r\n\r\n- fix: qualify release version   authority changes (`12e07dc`)\r\n\r\n### Other Changes\r\n\r\n- Keep titlebar version in sync (`1bc3203`)\r\n- Enforce release version authority before build (`c17eea8`)\r\n\r\n---\r\n\r\n### Complete Commit Log\r\n\r\n- `1bc3203` [uncategorized] Keep titlebar version in sync\r\n- `c17eea8` [uncategorized] Enforce release version authority before build\r\n- `12e07dc` [fix] fix: qualify release version   authority changes",
+    "title":  "ASAP v1.8.3",
+    "summary":  "# Release Notes — v1.8.3",
+    "notes":  "# Release Notes — v1.8.3\r\n\r\n- Source repo: `JINIEE/JinASAP`\r\n- Source SHA: `e99c3c7b2e10030ff99f844fa22add6d6d2c9ebd`\r\n- Range: `d30de34fcb4e8330a5276adee8c0c0293c27f5aa..e99c3c7b2e10030ff99f844fa22add6d6d2c9ebd`\r\n- Commits: **1**\r\n\r\n###  Bug Fixes\r\n\r\n- fix: open GitHub releases from update dialog (`e99c3c7`)\r\n\r\n---\r\n\r\n### Complete Commit Log\r\n\r\n- `e99c3c7` [fix] fix: open GitHub releases from update dialog",
     "assets":  [
                    {
                        "name":  "asap.exe",
                        "kind":  "portable",
-                       "size":  10074624
+                       "size":  10338816
                    },
                    {
-                       "name":  "ASAP_1.8.2_x64_en-US.msi",
+                       "name":  "ASAP_1.8.3_x64_en-US.msi",
                        "kind":  "msi",
-                       "size":  3555328
+                       "size":  3641344
                    },
                    {
-                       "name":  "ASAP_1.8.2_x64-setup.exe",
+                       "name":  "ASAP_1.8.3_x64-setup.exe",
                        "kind":  "nsis",
-                       "size":  2479485
+                       "size":  2529376
                    }
                ]
 }
