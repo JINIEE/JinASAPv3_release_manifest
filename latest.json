@@ -1,14 +1,14 @@
 {
     "schema_version":  1,
     "app":  "ASAP",
-    "version":  "v1.8.1",
-    "published_at":  "2026-05-13T13:55:39Z",
+    "version":  "v1.8.2",
+    "published_at":  "2026-05-14T07:54:01Z",
     "release_page_url":  "https://github.com/JINIEE/JinASAPv3_release/releases/",
     "latest_release_url":  "https://github.com/JINIEE/JinASAPv3_release/releases/latest",
     "minimum_supported_version":  null,
-    "title":  "ASAP v1.8.1",
-    "summary":  "# Release Notes — v1.8.1",
-    "notes":  "# Release Notes — v1.8.1\r\n\r\n- Source repo: `JINIEE/JinASAP`\r\n- Source SHA: `28f825479461471ed66667d0e2da5e8bba11286e`\r\n- Range: `f66b4e36671396918b9cbbc835a24260e05157d1..28f825479461471ed66667d0e2da5e8bba11286e`\r\n- Commits: **3**\r\n\r\n###  Documentation\r\n\r\n- docs: make PRD/TRD reflect current ASAP scope (`c8aa5c9`)\r\n\r\n### Other Changes\r\n\r\n- Replace updater gateway with manifest notice (`8ecabf5`)\r\n- Record manifest release verification (`28f8254`)\r\n\r\n---\r\n\r\n### Complete Commit Log\r\n\r\n- `c8aa5c9` [docs] docs: make PRD/TRD reflect current ASAP scope\r\n- `8ecabf5` [uncategorized] Replace updater gateway with manifest notice\r\n- `28f8254` [uncategorized] Record manifest release verification",
+    "title":  "ASAP v1.8.2",
+    "summary":  "# Release Notes — v1.8.2",
+    "notes":  "# Release Notes — v1.8.2\r\n\r\n- Source repo: `JINIEE/JinASAP`\r\n- Source SHA: `12e07dc191000eeb00de251a669f5169cd0d1622`\r\n- Range: `47d84d78395b66953764d4eab6949520192d0047..12e07dc191000eeb00de251a669f5169cd0d1622`\r\n- Commits: **3**\r\n\r\n###  Bug Fixes\r\n\r\n- fix: qualify release version   authority changes (`12e07dc`)\r\n\r\n### Other Changes\r\n\r\n- Keep titlebar version in sync (`1bc3203`)\r\n- Enforce release version authority before build (`c17eea8`)\r\n\r\n---\r\n\r\n### Complete Commit Log\r\n\r\n- `1bc3203` [uncategorized] Keep titlebar version in sync\r\n- `c17eea8` [uncategorized] Enforce release version authority before build\r\n- `12e07dc` [fix] fix: qualify release version   authority changes",
     "assets":  [
                    {
                        "name":  "asap.exe",
@@ -16,14 +16,14 @@
                        "size":  10074624
                    },
                    {
-                       "name":  "ASAP_1.8.1_x64_en-US.msi",
+                       "name":  "ASAP_1.8.2_x64_en-US.msi",
                        "kind":  "msi",
-                       "size":  3551232
+                       "size":  3555328
                    },
                    {
-                       "name":  "ASAP_1.8.1_x64-setup.exe",
+                       "name":  "ASAP_1.8.2_x64-setup.exe",
                        "kind":  "nsis",
-                       "size":  2479303
+                       "size":  2479485
                    }
                ]
 }
